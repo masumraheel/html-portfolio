@@ -1,4 +1,17 @@
+/* comon style */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 /* nav related style */
 nav {
     display: flex;
+}
+
+.nav-title{
+color: var(--Dark-01, #181818);
+font-size: 45px;
+font-weight: 800;
 }
