@@ -7,6 +7,11 @@ body{
 .main-color{
     color: #FD6E0A;
 }
+
+.btn-main{
+    border-radius: 5px;
+    background: #FD6E0A;
+}
 /* nav related style */
 nav {
     display: flex;
