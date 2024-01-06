@@ -153,6 +153,7 @@ main section {
     display: flex;
     gap: 60px;
 }
+
 .resume-item-title {
     color: #474747;
     font-size: 25px;
@@ -164,6 +165,7 @@ main section {
     margin-bottom: 20px;
     margin-top: 0;
 }
+
 .resume-item-institute, .resume-item-description{
     color: #757575;
 }
@@ -176,4 +178,3 @@ main section {
     text-align: center;
     margin-top: 50px;
 }
-
